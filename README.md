@@ -2,6 +2,8 @@
 This application leverages Machine Learning to predict suitable crops based on environmental factors and provides optimal pesticide recommendations. The interactive and user-friendly interface, built using Streamlit, makes it easy to analyze predictions and visualize important features.
 
 Features
+
+
 🚜 Crop Prediction: Recommends suitable crops based on environmental factors like soil composition, temperature, and humidity.
 🐛 Pesticide Recommendations: Suggests appropriate pesticides for the predicted crops to maintain crop health and yield.
 🖥️ Interactive UI: User-friendly interface powered by Streamlit for seamless interaction and analysis.
@@ -11,6 +13,7 @@ Features
 
 
 Setup
+
 ls
 cd .\Crop-Prediction-and-Pesticide-Recommendation-System-main\data\
 .\venv\Scripts\activate
